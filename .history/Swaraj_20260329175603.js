@@ -9,8 +9,4 @@ Swarajyaaa
 //Add Main
 Swarajyaaa + "Swaraj"
 //Added Swarajyaaa && Swaraj
-<<<<<<< HEAD
-//Swarraj
-=======
 Swarajyaaa + "Swaraj"--> "Main";
->>>>>>> Swarajya-10
