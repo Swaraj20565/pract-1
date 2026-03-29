@@ -5,7 +5,5 @@ console.log("Hello, Swaraj and Swarajya!");
 Swaraj = "Swaraj";
 Swarajya + "Swaraj" + main;
 Swaraj + "Swarajya" + Main;
-Swarajyaaa 
-//Add Main
 Swarajyaaa + "Swaraj"
 //Added Swarajyaaa && Swaraj
